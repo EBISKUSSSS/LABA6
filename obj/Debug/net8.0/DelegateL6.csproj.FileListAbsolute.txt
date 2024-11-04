@@ -1,0 +1,14 @@
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\bin\Debug\net8.0\DelegateL6.exe
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\bin\Debug\net8.0\DelegateL6.deps.json
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\bin\Debug\net8.0\DelegateL6.runtimeconfig.json
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\bin\Debug\net8.0\DelegateL6.dll
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\bin\Debug\net8.0\DelegateL6.pdb
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.dll
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\refint\DelegateL6.dll
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.pdb
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\DelegateL6.genruntimeconfig.cache
+C:\Users\vlady\OneDrive\Робочий стіл\DelegateL6\obj\Debug\net8.0\ref\DelegateL6.dll
